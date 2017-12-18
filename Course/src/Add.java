@@ -11,7 +11,10 @@ număr la ieşire şi trece în rând nou*/
              } 
 }
 Salvăm acest program în sistemul de fişiere, sub numele de Add.java, şi apoi îl traducem cu compilatorul Java:
-
+javac Add.java
+În final, activăm programul cu comanda:
+java Add
+după care, în consolă, apare ieşirea programului, respectiv, numărul 5.
 */
 
 public class Add
