@@ -5,8 +5,7 @@ Haideți să încercăm să creăm încă un program Java. De data aceasta, prog
 public class Add 
 { 
         public static void main(String[] args) { 
-/*metoda println()tipăreşte întregul 
-număr la ieşire şi trece în rând nou*/ 
+/*metoda println()tipăreşte întregul număr la ieşire şi trece în rând nou 
              System.out.println(2+3); 
              } 
 }
