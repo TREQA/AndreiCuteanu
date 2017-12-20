@@ -12,7 +12,7 @@ public class Homework07
 {
     public static void main(String[] args)
     {
-        String firstUserName = "avcuteanu";
+        String firstUserName = "avcuteanu"; //username
         int birthDate = 4/15/2000; //date of birthday
         float operand1 = 4.1243534F; // first operand
 
