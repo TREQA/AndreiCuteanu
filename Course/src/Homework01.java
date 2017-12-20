@@ -1,5 +1,4 @@
-//enunt tema
-//klkl\
+// Exercitiul din fisierul video CJPR01
 
 public class Homework01 {
         public Homework01() {
