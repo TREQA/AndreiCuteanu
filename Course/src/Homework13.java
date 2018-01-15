@@ -1,4 +1,8 @@
-/*Este necesară următoarea construcție logică: dacă x primește o
+/* Curs: Core Java Programming
+   Modul: Controlul fluxului, buclele și ramificarea
+   Unitate: Controlul fluxului – If
+   Exercitiul 1:
+Este necesară următoarea construcție logică: dacă x primește o
 valoare mai mare decât zero, se intră în blocul de cod și x este egal cu
 3.
 
