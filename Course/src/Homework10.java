@@ -12,4 +12,4 @@ public class Homework10 {
 
         System.out.println(A);
     }
-}
+} 
