@@ -21,12 +21,12 @@ public class Homework22 {
         System.out.println(c.calculate());
     }
 
-    double operand1;
-    double operand2;
-    char operator;
+    public double operand1;
+    public double operand2;
+    public char operator;
 
     public double calculate() {
-        double result=0;
+        double result;
         switch (this.operator) {
             case '+':
                 result = this.operand1 + this.operand2;
