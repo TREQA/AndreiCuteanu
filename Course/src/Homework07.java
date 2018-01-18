@@ -19,4 +19,4 @@ public class Homework07
         System.out.println("Username is: " + firstUserName);
         System.out.printf("Birthday is %d%nFirst operand id %.2f",birthDate,operand1);
     }
-}
+} 
