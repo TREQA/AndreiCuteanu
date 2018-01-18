@@ -20,4 +20,4 @@ public class Homework05 {
             System.out.println("Salary: " + salary);
         }
 
-}
+} 
