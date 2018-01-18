@@ -50,4 +50,4 @@ public class Homework22 {
         }
         return result;
     }
-}
+} 
