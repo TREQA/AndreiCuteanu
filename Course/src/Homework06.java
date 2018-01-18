@@ -10,5 +10,5 @@ public class Homework06 {
         int y = (int)x; 
 
         System.out.println(y);
-        }
+        } 
 }
