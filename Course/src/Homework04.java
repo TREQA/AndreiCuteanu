@@ -32,4 +32,4 @@ public class Homework04 {
         System.out.println(a+b);
 
         }
-}
+} 
