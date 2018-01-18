@@ -21,4 +21,4 @@ public class Homework18
         }
         System.out.println(java.util.Arrays.toString(names));
     }
-}
+} 
