@@ -15,4 +15,4 @@ public class Homework20 {
             x++;
         } while (x<arr.length);
     }
-}
+} 
