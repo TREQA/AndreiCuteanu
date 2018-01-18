@@ -39,7 +39,7 @@ public class Homework22 {
                 break;
             case '/':
                 if (this.operand2 == 0) {
-                    System.out.println("Împărțirea nu este posibilă!");
+                    System.out.println("Impartirea nu este posibila!");
                     result = 0;
                 } else
                     result = this.operand1 / this.operand2;
