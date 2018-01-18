@@ -21,4 +21,4 @@ public class Homework17 {
         }
         System.out.println(java.util.Arrays.toString(arr1));
     }
-}
+} 
