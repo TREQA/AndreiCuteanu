@@ -49,5 +49,5 @@ public class Homework22 {
                 break;
         }
         return result;
-    }
+    } 
 } 
