@@ -30,4 +30,4 @@ public class Homework03 {
          */
         System.out.println(sum);
     }
-} 
+}
