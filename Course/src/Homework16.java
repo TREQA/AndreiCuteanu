@@ -36,5 +36,5 @@ public class Homework16 {
                 default:
                 System.out.println("You do NOT drive a Ford car.");
         }
-    }
+    } 
 }

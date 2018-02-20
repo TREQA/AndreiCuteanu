@@ -12,5 +12,5 @@ public class Homework12 {
         System.out.println("This is the unsorted array: "+Arrays.toString(array));
         Arrays.sort(array);
         System.out.println("This is the sorted array: "+Arrays.toString(array));
-    }
+    } 
 }

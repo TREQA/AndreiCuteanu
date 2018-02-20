@@ -15,7 +15,7 @@ else if(x=0);
 else(x)
 {
 //logic goes here
-}
+} 
 */
 public class Homework14 {
     public static void main(String[] Andrei) {
@@ -38,4 +38,4 @@ public class Homework14 {
             System.out.print("x != y");
         }
     }
-}
+} 

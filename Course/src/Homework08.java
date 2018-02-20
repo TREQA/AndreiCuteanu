@@ -11,4 +11,4 @@ public class Homework08{
         System.out.printf("Page width is %d", PAGE_WIDHT);
         }
 
-}
+} 
