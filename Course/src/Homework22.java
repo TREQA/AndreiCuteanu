@@ -12,7 +12,7 @@ Toate valorile sunt de tip double.
 */
 
 public class Homework22 {
-    public static void main(String[] Andrei) {
+    public static void main(String[] args) {
 
         Homework22 c = new Homework22();
         c. operand1 = 2;
