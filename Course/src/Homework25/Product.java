@@ -17,14 +17,12 @@ public abstract class Product {
         return output.toString();
     }
 
-    public String allAddons()
-    {
+    public String allAddons() {
         StringBuilder output = new StringBuilder();
         for(int i=0;i<this.addons.length;i++)
             if(this.addons[i]!=null)
                 output.append(this.addons[i] + "; ");
-        if(!output.toString().equals(""))
-        {
+        if(!output.toString().equals("")) {
             if(output.toString().trim().endsWith(";"))
                 output.replace(output.length()-2, output.length(), ".");
         }
@@ -35,8 +33,7 @@ public abstract class Product {
 
     public void addon(String addon) {
         for(int i=0;i<this.addons.length;i++)
-            if(this.addons[i]==null)
-            {
+            if(this.addons[i]==null) {
                 this.addons[i]=addon;
                 break;
             }
