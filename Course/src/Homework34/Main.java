@@ -14,12 +14,11 @@ users.add(new User(3, "Zoran"));
 Sortați utilizatorii în funcție de ID și afișați lista la ieșire.
 
  */
-/*
+
 package Homework34;
 
-import java.util.ArrayList;
-
-public class Main {
+public class Main {}
+    /*
     public static void main(String[] args){
         ArrayList users = new ArrayList();
         users.add(new User(4,"Goran"));
@@ -42,9 +41,9 @@ public class Main {
             users.set(min,(User)users.get(i));
             users.set(i, tmp);
         }
+
         for (User u : users){
-            System.out.println(u.id + " : " + u.name);
-        }
+            System.out.println(u.id + " : " + u.name);}
     }
 }
 */
